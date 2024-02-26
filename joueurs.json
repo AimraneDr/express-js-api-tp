@@ -1,0 +1,23 @@
+[
+  {
+    "id": "17",
+    "idEquipe": "2",
+    "nom": "Adam",
+    "numero": "13",
+    "poste": "Attaquant"
+  },
+  {
+    "id": "2",
+    "idEquipe": "1",
+    "nom": "Ronaldo",
+    "numero": "7",
+    "poste": "Attaquant"
+  },
+  {
+    "id": "3",
+    "idEquipe": "2",
+    "nom": "Neymar",
+    "numero": "10",
+    "poste": "Attaquant"
+  }
+]
